@@ -1,0 +1,23 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/6222.v16.png" tvg-name="997 The Hits (Orlando, FL)"  group-title="Florida",997 The Hits (Orlando, FL)
+https://16803.live.streamtheworld.com/977_HITSAAC_SC
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/9330.v3.png" tvg-name="95,9 FM Kiss FM (Applerton, WI)"  group-title="Wisconsin",95,9 FM Kiss FM (Applerton, WI)
+https://ic2.sslstream.com/wksz-fm
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/43758.v8.png" tvg-name="Que Buena 102.9 FM (Houston, TX)"  group-title="Texas",Que Buena 102.9 FM (Houston, TX)
+https://prod-35-230-127-160.wostreaming.net/univision-kltnfmaac-imc1?
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/18403.v8.png" tvg-name="La Tricolor 94.7 (El Paso, TX)"  group-title="Texas",La Tricolor 94.7 (El Paso, TX)
+https://18573.live.streamtheworld.com/KYSEFMAAC.aac
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/18967.v6.png" tvg-name="Que Buena 94.1 (Dallas, TX)"  group-title="Texas",Que Buena 94.1 (Dallas, TX)
+https://prod-35-185-200-128.wostreaming.net/univision-klnofmaac-imc1?
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s33452q.png" tvg-name="K104 - 104.5 FM (Dallas, TX)"  group-title="Texas",K104 - 104.5 FM (Dallas, TX)
+https://acache.cdnstream1.com/ais-edge22-futuri-dal02.cdnstream.com/7285_64k.aac/lLPQWoWZTrd-325913581-4969.aac
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/KxhtLOGO.png/200px-KxhtLOGO.png" tvg-name="KXHT - HOT1071 (Memphis, TN)"  group-title="Tennensse",KXHT - HOT1071 (Memphis, TN)
+https://stream1.flinn.com:8443/1071FM.aac
+
