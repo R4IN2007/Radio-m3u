@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/6222.v16.png" tvg-name="99.7 The Hits"  group-title="Florida",99.7 The Hits FM
+https://16803.live.streamtheworld.com/977_HITSAAC_SC
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/0/9330.v3.png" tvg-name="95.9 FM Kiss FM"  group-title="Wisconsin",95.9 FM Kiss FM
+https://ic2.sslstream.com/wksz-fm
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/18403.v8.png" tvg-name="La Tricolor 94.7"  group-title="Texas",La Tricolor 94.7
+https://18573.live.streamtheworld.com/KYSEFMAAC.aac
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/18967.v6.png" tvg-name="Que Buena 94.1 FM"  group-title="Texas",Que Buena 94.1 FM
+https://prod-35-247-4-135.wostreaming.net/univision-klnofmaac-imc1?session-id=5483a0365a588ccbdf6de8e105ab4785&source=TuneIn&gdpr=0&us_privacy=1YNY
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s33452q.png" tvg-name="K104 - 104.5 FM"  group-title="Texas",K104 - 104.5 FM
+http://ais-sa1.streamon.fm/7285_64k.aac
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/KxhtLOGO.png/200px-KxhtLOGO.png" tvg-name="KXHT - HOT1071"  group-title="Tennessee",KXHT - HOT1071
+https://stream1.flinn.com:8443/1071FM.aac
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://images.radio.com/logos/KMVKFM.jpg" tvg-name="La Grande 104.5 FM" group-title="Texas",La Grande 104.5 FM
+https://20593.live.streamtheworld.com/KMVKFMAAC_SC?sbmid=7f61e850-7854-44e1-972a-43585204f1a6&DIST=CBS&TGT=radiocomPlayer&SRC=CBS&lsid=cookie:b22d4800-3710-44d5-bc41-ea4b8d04644b
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6Z5C1js/1619473230529.jpg" tvg-name="99.3 FM La Jefa" group-title="Tennessee",99.3 FM La Jefa
+https://ice6.securenetsystems.net/WGUE?playSessionID=0CB1D025-9BF2-36EC-2461BAB384DB9553
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s29419q.png" tvg-name="97.1 FM K97" group-title="Tennessee",97.1 FM K97
+https://ample.revma.ihrhls.com/zc2141/48_m8on5z5lw7w902/playlist.m3u8?gender=null&companionAds=true&dist=iheart&init_id=8169&aw_0_1st.playerid=iHeartRadioWebPlayer&uid=e024897c-31d9-4763-820d-de267b3441d9&clientType=web&profileid=1526737635&host=webapp.US&zip=38122&callLetters=WHRK-FM&streamid=2141&pname=OrganicWeb&aw_0_1st.ccaud=&fb_broadcast=0&terminalid=159&at=0&birthYear=null&modTime=1618794771746&aw_0_1st.skey=1618794771&us_privacy=1-N-&devicename=web-mobile&playedFrom=6&age=null&territory=US&stationid=2141
